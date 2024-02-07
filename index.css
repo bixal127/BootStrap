@@ -1,0 +1,254 @@
+
+.head:hover{
+    color: blue;
+    background-color: yellow;
+    
+
+}
+.navbar-expand-lg{
+    background-color: yellow;
+
+}
+.navbar-brand{
+    border: 2px  solid black;
+    border-radius: 20px 20px 20px 20px;
+    
+    width: 8%;
+    background-color: blue;
+color: yellow;
+font-size: xx-large;
+border-color: black;
+cursor: not-allowed;
+
+
+
+}
+
+.final{
+    text-align: center;
+}
+.final:hover {
+    text-align: center;
+    background-color: yellow;
+    color: blue;
+    
+}
+
+.d-flex {
+    background-image: url("C:\Users\123la\Downloads\qrcode_www.chennaisuperkings.com.png");
+}
+
+#img{
+    background-image: url(csk.png);
+    flex: 0.3;
+}
+.nav-link{
+    color: blue;
+    font-weight: bolder;
+}
+.about{
+    font-style: italic;
+}
+.d-flex{
+    display: flex;
+    width: max-content;
+   
+}
+.heading:hover{
+
+
+    color: blue;
+    background-color: yellow;
+}
+.lion:hover{
+    color: blue;
+    background-color: yellow;
+}
+.card{
+    border: 3px solid black;
+    background-color: yellow;
+   margin-right: 10px;
+   /* max-width: max-content; */
+  
+   
+
+   
+  
+
+}
+.years{
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.foot{
+    /* background-color:   rgb(50, 129, 172); */
+    display: flex;
+    justify-content: space-around;
+  color: white;
+  background-color: rgb(49, 76, 155);
+}
+.lion{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+.win:hover{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+}
+.w{
+    display: flex;
+    
+}
+.carousel{
+    background-position:center;
+    
+    background-repeat: no-repeat;
+   background-size: cover;
+   
+
+   /* animation: change  5s infinite ease-in-out; */
+   
+}
+
+.one , .two , .three{
+    text-align: center;
+    height: 100px;
+    width: fit-content;
+   
+} 
+.one{
+    word-spacing: 20px;
+}
+.term:hover{
+    color: blue;
+    cursor: grab;
+}
+.con:hover{
+    color: blue;
+    cursor: grab;}
+    
+    .pri:hover{
+        color: blue;
+        cursor: grab;}
+        
+        .dis:hover{
+            color: blue;
+            cursor: grab;
+        }
+   
+
+/* @keyframes change
+{
+    0% {
+        background-image: url(2021s.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: 80%;
+     
+        
+       }
+20% 
+{
+    background-image: url(2010s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+ 
+}
+40% 
+{
+    background-image: url(2011s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+ 
+}  
+60% 
+{
+    background-image : url(2018.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+ 
+}  
+60%
+ {
+    background-image: url(2010e.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+ 
+    
+}
+60% 
+{
+    background-image: url(2023s.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+ 
+} */
+/* } */
+/* .footer{
+    text-decoration-color: aqua;
+} */
+
+ /* .container-2 { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     text-align: center;
+    color: yellow; 
+     height: 90vh;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.75;
+    background: url(csk2.webp) no-repeat center center/cover;
+    animation: slider 30s infinite ease-in;
+  
+  
+  } 
+  
+  @keyframes slider {
+  
+    0% {
+      background: url(2010.png) no-repeat center center/cover;
+    }
+  
+    20% {
+      background: url(2011.jpg ) no-repeat center center/cover;
+    }
+  
+    40% {
+      background: url(2018.jpeg) no-repeat center center/cover;
+    }
+  
+    60% {
+      background: url(2021s.jpg ) no-repeat center center/cover;
+    }
+  
+    80% {
+      background: url(2023.jpg) no-repeat center center/cover;
+    }
+  } 
+  
+   */
+
+
+    
